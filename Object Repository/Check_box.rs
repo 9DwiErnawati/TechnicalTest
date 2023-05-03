@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Check_box</name>
+   <tag></tag>
+   <elementGuidId>68745f12-a170-4068-abd4-c30d3a3e3838</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;formRegister&quot;]/div[6]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;formRegister&quot;]/div[6]/div/input</value>
+      <webElementGuid>0a647ab4-930a-4bdf-97d9-fc81ff7c4ecd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

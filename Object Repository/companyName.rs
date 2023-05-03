@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>companyName</name>
+   <tag></tag>
+   <elementGuidId>ec73da49-7b9e-478c-8a11-98095fe9e526</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;name&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;name&quot;]</value>
+      <webElementGuid>4f49377a-6ec3-4ef4-b7d0-0c6a2cf20c15</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

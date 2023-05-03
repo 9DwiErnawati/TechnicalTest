@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>phone</name>
+   <tag></tag>
+   <elementGuidId>352b5b8a-f24e-4334-8356-0e0d8be11feb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;formRegister&quot;]/div[5]/div[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;formRegister&quot;]/div[5]/div[2]/div/input</value>
+      <webElementGuid>6737df96-9935-4fb2-8bbc-e5d40396839a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

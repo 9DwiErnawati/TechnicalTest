@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonNext</name>
+   <tag></tag>
+   <elementGuidId>01d3b833-fac9-4b48-b754-a8c9838e693e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;btn-register&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;btn-register&quot;]</value>
+      <webElementGuid>626f050a-1fd1-45ca-a546-7e6471585b2d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

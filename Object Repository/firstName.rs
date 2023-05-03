@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>firstName</name>
+   <tag></tag>
+   <elementGuidId>926cd0e0-4a60-4c64-80c2-8ff12f85b7c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;signatory_first_name&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;signatory_first_name&quot;]</value>
+      <webElementGuid>412f1a0f-1f14-41fc-a35c-fb4144aceb19</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

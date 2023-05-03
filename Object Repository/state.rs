@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>state</name>
+   <tag></tag>
+   <elementGuidId>53893a27-40cc-40b1-bde0-2cb7c6c9ff53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;state_input_wrapper&quot;]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;state_input_wrapper&quot;]/input</value>
+      <webElementGuid>6995ffef-3b01-4738-ad4c-9567c22daaea</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
